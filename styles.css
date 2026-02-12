@@ -1,0 +1,59 @@
+p {
+  position: relative;
+  width:500px;
+  text-align:center;
+  font-size:125%;
+  left:50%;
+  transform: translate(-50%, 0%);
+  background-color: lightblue;
+  border-radius:10px;
+  padding: 10px 10px;
+}
+
+h1{
+  position:relative;
+  text-align:center;
+  background-color:lightgreen;
+  width:550px;
+  left:50%;
+  transform: translate(-50%, 0%);
+  border-radius: 40px;
+}
+
+header {
+  color: Black;
+  font-family: DotGothic16;
+  font-size: 200%;
+  background-color: violet;
+  padding: 20px 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+footer {
+  color: Black;
+  font-family: DotGothic16;
+  font-size: 200%;
+  background-color: violet;
+  padding: 20px 20px;
+  border-radius: 10px;
+}
+
+button {
+  font-family: DotGothic16;
+  padding: 10px 20px;
+  font-size:20px;
+  color: magenta;
+  background-color: purple;
+  border:none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  vertical-align: middle;
+  
+}
+
+button:hover {
+background-color: pink;
+}
