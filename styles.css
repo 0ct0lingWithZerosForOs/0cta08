@@ -11,6 +11,7 @@ p {
 }
 
 ul {
+  margin-inlline:20px;
   position: relative;
   width:500px;
   font-size:125%;
@@ -23,6 +24,7 @@ ul {
 }
 
 li {
+  margin-inlline:20px;
   position: relative;
   width:500px;
   font-size:125%;
