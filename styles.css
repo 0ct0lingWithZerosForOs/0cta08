@@ -21,6 +21,17 @@ ul {
   padding: 10px 10px;
 }
 
+li {
+  position: relative;
+  width:500px;
+  font-size:125%;
+  left:50%;
+  transform: translate(-50%, 0%);
+  background-color: lightblue;
+  border-radius:10px;
+  padding: 10px 10px;
+}
+
 h1{
   position:relative;
   text-align:center;
